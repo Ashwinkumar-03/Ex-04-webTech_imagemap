@@ -44,11 +44,12 @@ commit the changes using the command and push to github respositary
 
 
 # Output:
-![output](./IOC.png.png)
-![output](./kailash%20storage.png.png)
-![output](./park.png.png)
-![output](./SRF%20limited.png.png)
-![output](./temple.png.png)
+
+![output](/IOC.png)
+![output](/kailash%20storage.png)
+![output](/park.png)
+![output](/SRF%20limited.png)
+![output](/temple.png)
 
 # Result:
 
